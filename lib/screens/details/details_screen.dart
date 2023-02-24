@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:movie_app001/models/movie.dart';
 
+import 'components/body.dart';
+
 class DetailsScreen extends StatelessWidget {
   final Movie? movie;
 
@@ -8,6 +10,8 @@ class DetailsScreen extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return Container();
+    return Scaffold(
+      body: Body(movie: movie),
+    );
   }
 }
