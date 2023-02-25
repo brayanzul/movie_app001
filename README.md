@@ -1,5 +1,10 @@
 # movie_app001
 
+![Captura040](https://user-images.githubusercontent.com/62777613/221374932-d2057979-92b1-4bc7-a614-5381632c1c27.PNG)
+
+![Captura041](https://user-images.githubusercontent.com/62777613/221374941-5f2fa327-f1a7-4e5c-847e-be2795e7fe12.PNG)
+
+
 A new Flutter project.
 
 ## Getting Started
